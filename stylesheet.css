@@ -2,6 +2,9 @@
 html, body {
   font-family: "Nunito", sans-serif;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700');
+
 .hero {
   background-image:url("/images/hero-bg.png") 0 0 no-repeat fixed;
   background: rgba(255,87,34,.5);
