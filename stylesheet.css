@@ -3,7 +3,7 @@ html, body {
   font-family:'Nunito', Arial, sans-serif;
 }
 .hero {
-  background-image:url("/images/hero.jpg") no-repeat 95% 50%;
+  background-image:url("/images/hero.jpg") cover;
   height:500px;
   width:100%;
     margin:0px!important;
@@ -17,9 +17,5 @@ html, body {
 .hero-desc {
   text-align:center;
   font-weight:400;
-}
-
-.btn.btn-default.hero {
-  text-align:center;
 }
 </style>
