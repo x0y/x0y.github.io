@@ -1,6 +1,6 @@
 <style>
 html, body {
-  font-family: "Nunito", sans-serif;
+  font-family: "Nunito" !important;
 }
 
 @font-face {
