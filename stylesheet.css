@@ -45,11 +45,10 @@ nav.navbar.navbar-default {
 .sell-image.sell-one {
   background:#82B1FF;
 }
-.sell-image>img {
+.col-md-12.sell-image>img {
   position: relative;
   float: left;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
 }
 </style>
