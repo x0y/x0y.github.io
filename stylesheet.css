@@ -1,14 +1,14 @@
 <style>
 html, body {
-  font-family:"Helvetica Neue", Arial, sans-serif;
+  font-family:"Nunito", Arial, sans-serif;
 }
 .hero-title {
   font-size:4em;
-  font-weight:300;
+  font-weight:600;
   text-align:center;
 }
 .hero-desc {
   text-align:center;
-  font-weight:300;
+  font-weight:400;
 }
 </style>
