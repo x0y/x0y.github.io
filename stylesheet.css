@@ -1,2 +1,10 @@
 <style>
+html, body {
+  font-family:"Helvetica Neue", Arial, sans-serif;
+}
+.hero-title {
+  font-size:2em;
+  font-weight:300;
+  text-align:center;
+}
 </style>
