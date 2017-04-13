@@ -18,4 +18,8 @@ html, body {
   text-align:center;
   font-weight:400;
 }
+
+.btn.btn-default.hero {
+  text-align:center;
+}
 </style>
