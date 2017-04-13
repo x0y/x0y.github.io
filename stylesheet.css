@@ -46,7 +46,13 @@ nav.navbar.navbar-default {
   background:#82B1FF;
   height:600px;
 }
-.col-md-12.sell-image>img {
+.sell-image>img {
+  position: relative;
+  float: left;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.sell-desc>h3,p {
   position: relative;
   float: left;
   top: 50%;
