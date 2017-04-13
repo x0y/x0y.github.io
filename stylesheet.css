@@ -44,6 +44,7 @@ nav.navbar.navbar-default {
 
 .sell-image.sell-one {
   background:#82B1FF;
+  height:300px;
 }
 .col-md-12.sell-image>img {
   position: relative;
