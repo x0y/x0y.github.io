@@ -3,7 +3,8 @@ html, body {
   font-family: "Nunito", sans-serif;
 }
 .hero {
-  background-image:url("/images/hero-bg.png");
+  background-image:url("/images/hero-bg.png") 0 0 no-repeat fixed;
+  background: rgba(255,87,34,0.82);
   height:500px;
   width:100%;
     margin:0px!important;
