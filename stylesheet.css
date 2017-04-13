@@ -2,6 +2,9 @@
 html, body {
   font-family:'Nunito', Arial, sans-serif;
 }
+.hero {
+  background-image:url("/images/hero.jpg");
+}
 .hero-title {
   font-size:4em;
   font-weight:600;
