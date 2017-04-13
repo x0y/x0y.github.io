@@ -13,7 +13,7 @@ html, body {
 .hero {
   background-image:url("/images/hero-bg.png") 0 0 no-repeat fixed;
   background: rgba(255,87,34,.75);
-  height:500px;
+  height:600px;
   width:100%;
     margin:0px!important;
     color:white;
