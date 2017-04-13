@@ -4,6 +4,8 @@ html, body {
 }
 .hero {
   background-image:url("/images/hero.jpg");
+  height:500px;
+  width:100%;
 }
 .hero-title {
   font-size:4em;
