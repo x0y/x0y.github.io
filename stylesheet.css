@@ -3,7 +3,12 @@ html, body {
   font-family: "Nunito", sans-serif;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700');
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito-Regular'), url(http://themes.googleusercontent.com/static/fonts/nunito/v4/kpI87QY2ce-mk2ZnKb-r0g.ttf) format('truetype');
+}
 
 .hero {
   background-image:url("/images/hero-bg.png") 0 0 no-repeat fixed;
