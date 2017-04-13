@@ -3,7 +3,7 @@ html, body {
   font-family:'Nunito', Arial, sans-serif;
 }
 .hero {
-  background-image:url("/images/hero.jpg") cover;
+  background-image:url("/images/hero.jpg");
   height:500px;
   width:100%;
     margin:0px!important;
